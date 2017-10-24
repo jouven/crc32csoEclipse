@@ -1,5 +1,5 @@
-#ifndef CRC32C_H
-#define CRC32C_H
+#ifndef CRC32CSO_CRC32C_H
+#define CRC32CSO_CRC32C_H
 
 //#ifndef CRC32C_STATIC
 //#ifdef CRC32C_EXPORTS
