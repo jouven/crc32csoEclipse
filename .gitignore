@@ -22,3 +22,5 @@ includeheaders
 *.so
 *.dll
 *.a
+/DebugAndroid/
+/ReleaseAndroid/
